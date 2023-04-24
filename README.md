@@ -5,7 +5,7 @@
 
 ### Authors :
 * YOUSSEF EL MAHMI
-* Reda Achargui.
+* Reda Achargui
 
 ## Tasks :
 
